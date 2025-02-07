@@ -1,5 +1,5 @@
 
-# Plant Disease Detection System 🌱
+# Plant Disease Detector
 
 ## Overview  
 This Plant Disease Detection System leverages TensorFlow and Streamlit to detect diseases in plant leaves. It provides an intuitive web interface where users can upload leaf images to get disease predictions, helping ensure better crop health and sustainable farming.
